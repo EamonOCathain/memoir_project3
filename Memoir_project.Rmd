@@ -10,7 +10,7 @@ affiliation:
     dptuniv: "Department / University"
     address: >
       Street address,
-      Zip code,
+      Zip code,s
       Country.
   - affsuperscript: 2
     dptuniv: "Department / University"
